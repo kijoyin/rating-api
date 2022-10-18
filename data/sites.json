@@ -9,12 +9,12 @@
               "subtitle": "Fruit Smoothies - Project Homepage"
           },
           "Rating": {
-              "title": "Fruit Smoothies :: Rate the Superheroes",
+              "title": "Fruit Smoothies :: Rate the Superheroes special",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
               "subtitle": "Rate the smoothies"
           },
           "Leaderboard": {
-              "title": "Fruit Smoothies :: Current Leaderboard",
+              "title": "Fruit Smoothies :: Current Leaderboard yay",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
               "subtitle": "Current Leaderboard - Orange smoothie? Yuck."
           }
